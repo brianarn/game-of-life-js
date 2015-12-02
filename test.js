@@ -1,4 +1,3 @@
-global.requirejs = require('requirejs');
 var Mocha = require("mocha");
 
 // create mocha instance and pass options
